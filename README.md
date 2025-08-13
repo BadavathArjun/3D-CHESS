@@ -1,6 +1,8 @@
 # 3D Multiplayer Chess Game
 
 A modern 3D chess game built with React, Three.js, and WebSocket for multiplayer functionality.
+<img width="1893" height="939" alt="Screenshot 2025-08-13 213108" src="https://github.com/user-attachments/assets/5f11d3b2-8d8f-40ff-a295-76687828f364" />
+
 
 ## 🚀 Technologies Used
 
